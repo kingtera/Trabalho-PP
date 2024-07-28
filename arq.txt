@@ -1,0 +1,95 @@
+
+=============================
+ Eduardo Teranisi
+   Aniversário: 29/3/2003
+   Idade: 19
+   Profissão: DayTrader
+   Objetivos: Fazer um trade de 1.000.000,00
+   Itens consumidos: [ 1, 2, 3 ]
+   Frequência de Compra(/mês): 5,00
+   Valor Médio: R$850,00
+________________________________
+   Eduardo Teranisi possui os seguintes scores:
+   Assina NewsLetter [1-SIM | 2-NÃO]: 1
+   Acompanha Blog [1-SIM | 2-NÃO]: 1
+   Frequencia de compra (/mês): 5,00
+   Ticket Médio: R$850,00
+   PONTUAÇÃO FINAL > 36
+   CLASSIFICAÇÃO > PROMOTOR
+=============================
+
+=============================
+ Edgard Lamounier
+   Aniversário: 29/3/2003
+   Idade: 19
+   Profissão: Professor
+   Objetivos: Conquistar a Bola de Ouro
+   Itens consumidos: [ 2, 0, 0 ]
+   Frequência de Compra(/mês): 3,00
+   Valor Médio: R$200,00
+________________________________
+   Edgard Lamounier possui os seguintes scores:
+   Assina NewsLetter [1-SIM | 2-NÃO]: 1
+   Acompanha Blog [1-SIM | 2-NÃO]: 2
+   Frequencia de compra (/mês): 3,00
+   Ticket Médio: R$200,00
+   PONTUAÇÃO FINAL > 1
+   CLASSIFICAÇÃO > DESCONHECIDO
+=============================
+
+=============================
+ Luiz Pedro Bittencourt
+   Aniversário: 17/2/2002
+   Idade: 20
+   Profissão: Conquistador de Mundos
+   Objetivos: acabar com o multiverso
+   Itens consumidos: [ 1, 3, 0 ]
+   Frequência de Compra(/mês): 2,00
+   Valor Médio: R$1000,00
+________________________________
+   Luiz Pedro Bittencourt possui os seguintes scores:
+   Assina NewsLetter [1-SIM | 2-NÃO]: 2
+   Acompanha Blog [1-SIM | 2-NÃO]: 1
+   Frequencia de compra (/mês): 2,00
+   Ticket Médio: R$1000,00
+   PONTUAÇÃO FINAL > 20
+   CLASSIFICAÇÃO > CLIENTE
+=============================
+
+=============================
+ Lucas Leal
+   Aniversário: 14/7/2002
+   Idade: 20
+   Profissão: Pasteleiro
+   Objetivos: Fazer o melhor pastel de cupim
+   Itens consumidos: [ 2, 3, 0 ]
+   Frequência de Compra(/mês): 2,00
+   Valor Médio: R$350,00
+________________________________
+   Lucas Leal possui os seguintes scores:
+   Assina NewsLetter [1-SIM | 2-NÃO]: 1
+   Acompanha Blog [1-SIM | 2-NÃO]: 1
+   Frequencia de compra (/mês): 2,00
+   Ticket Médio: R$350,00
+   PONTUAÇÃO FINAL > 6
+   CLASSIFICAÇÃO > VISITANTE
+=============================
+
+=============================
+ Ana Luiza Lamounier
+   Aniversário: 30/3/2003
+   Idade: 19
+   Profissão: DayTrader
+   Objetivos: Fazer um trade de 1bi de dolar
+   Itens consumidos: [ 2, 0, 0 ]
+   Frequência de Compra(/mês): 7,00
+   Valor Médio: R$650,00
+________________________________
+   Ana Luiza Lamounier possui os seguintes scores:
+   Assina NewsLetter [1-SIM | 2-NÃO]: 2
+   Acompanha Blog [1-SIM | 2-NÃO]: 2
+   Frequencia de compra (/mês): 7,00
+   Ticket Médio: R$650,00
+   PONTUAÇÃO FINAL > 30
+   CLASSIFICAÇÃO > CLIENTE
+=============================

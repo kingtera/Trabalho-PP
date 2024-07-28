@@ -1,0 +1,12 @@
+# depslib dependency file v1.0
+1658426932 source:c:\users\usuario\onedrive\documentos\progra\c\trabalhopp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<locale.h>
+
+1660845847 source:c:\users\usuario\onedrive\documentos\progra\c\ppfinal\trabalhopp\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<locale.h>
+
